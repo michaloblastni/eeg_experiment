@@ -17,6 +17,9 @@ Why?
     No emotional reaction
 
 This makes the EEG signal flat, regular, and stable — so any injected voice causes a clear disturbance.
+
+Assumption: You have Olimex EEG-SMT plugged in and it is working properly when you try it with https://github.com/michaloblastni/local-neural-monitoring
+
 🧪 Repeatable Procedure
 Baseline Task:
 
