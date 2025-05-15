@@ -35,9 +35,7 @@ Duration:
 
 Marking:
 
-    Press a key when baseline starts (e.g., B)
-
-    Press a key when baseline ends (B again)
+    Click "Start Voice Event" to mark a situation when you suddenly hear some insulting comment the task, and click "End Voice Event" to mark when the comment ended. Try to be as precise as possible.
 
 🔍 Why It Works
 
