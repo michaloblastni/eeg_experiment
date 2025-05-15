@@ -1,5 +1,6 @@
 Experimental Data Collection for Targeted Individuals
 =====================================================
+![EEG Experiment](eeg_experiment.png)
 
 ✅ Clean Baseline for Voice Detection
 
