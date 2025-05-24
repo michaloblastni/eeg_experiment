@@ -2,6 +2,23 @@ Experimental Data Collection for Targeted Individuals
 =====================================================
 ![EEG Experiment](eeg_experiment.png)
 
+⚠️ Disclaimer
+
+This project is a data collection tool intended to record EEG responses during user-perceived auditory events (e.g., intrusive thoughts, internal speech, or anomalous voice-like experiences).
+
+It does not assert the cause or origin of these perceptions.
+It is intended for non-clinical, exploratory research only.
+
+The objective is to:
+
+    Capture EEG patterns in a controlled baseline state
+
+    Enable participants to mark perceived events
+
+    Compare baseline vs. event EEG characteristics
+
+This may help researchers analyze subjective perceptual phenomena using quantitative EEG methods.
+
 ✅ Clean Baseline for Voice Detection
 
     “Do nothing. Sit still. Keep your eyes open, stare at a fixed point. Let your mind stay empty.”
