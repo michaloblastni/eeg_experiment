@@ -1,6 +1,5 @@
 Experimental Data Collection for Targeted Individuals
 =====================================================
-![EEG Experiment](eeg_experiment.png)
 
 ⚠️ Disclaimer
 
@@ -18,6 +17,8 @@ The objective is to:
     Compare baseline vs. event EEG characteristics
 
 This may help researchers analyze subjective perceptual phenomena using quantitative EEG methods.
+
+![EEG Experiment](eeg_experiment.png)
 
 ✅ Clean Baseline for Voice Detection
 
